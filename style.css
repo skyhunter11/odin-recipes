@@ -1,8 +1,18 @@
 h1 {
-    color: black;
+    color: rgb(53, 48, 48);
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 body {
-   background-color: thistle;
+   background-color: rgb(216, 191, 216);
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
+ul {
+    font-size: 20px;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
